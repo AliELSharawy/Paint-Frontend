@@ -1,0 +1,51 @@
+input{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 20px;
+  right: 18px;
+}
+#undo{
+  right: 18px;
+  top:160px;
+}
+#redo{
+  right:18px;
+  top: 190px;
+}
+#open{
+  right: 18px;
+  top: 20px;
+}
+#save{
+  top: 50px;
+  right: 18px;
+}
+#saveAs{
+  top: 80px;
+  right: 18px;
+}
+
+#selectMenu{
+  visibility: hidden;
+  text-align:center;
+  color: black;
+
+}
+#JSON{
+  width: 60px;
+  height: 30px;
+  position:absolute;
+  top: 112px;
+  right: 50px;
+}
+#XML{
+  width: 60px;
+  right: 50px;
+  top: 142px;
+}
+#Cancel{
+  width: 60px;
+  right: 50px;
+  top: 172px;
+}

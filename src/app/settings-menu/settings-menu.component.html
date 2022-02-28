@@ -1,0 +1,14 @@
+<div>
+  <input type="image" title="Undo" (click)="getOption('undo')" (mouseover)="select('undo')" (mouseout)="unselect('undo')" id="undo" alt="undo" src="https://s3.amazonaws.com/media-p.slid.es/uploads/181354/images/2185696/undo-icon.png">
+  <input type="image" title="Redo" (click)="getOption('redo')" (mouseover)="select('redo')" (mouseout)="unselect('redo')" id="redo" alt="redo" src="https://cdn0.iconfinder.com/data/icons/customicondesignoffice5/256/go-into.png">
+  <input type="image" title="Save" (click)="getOption('save')" (mouseover)="select('save')" (mouseout)="unselect('save')" id="save" alt="save" src="https://cdn1.iconfinder.com/data/icons/ui-colored-2-of-3/100/UI_2__33-512.png">
+  <input type="image" title="Save as" (click)="getOption('saveAs')" (mouseover)="select('saveAs')" (mouseout)="unselect('saveAs')" id="saveAs" alt="save as" src="https://icons.iconarchive.com/icons/custom-icon-design/flatastic-9/512/Save-as-icon.png">
+  <input type="image" title="Open" (click)="getOption('open')" (mouseover)="select('open')" (mouseout)="unselect('open')" id="open" alt="save" src="https://www.shareicon.net/data/2016/09/26/835643_folder_512x512.png">
+  <div id="selectMenu">
+    <input id="JSON" title="JSON Type" (click)="EndSave('JSON')" type="button" value="JSON">
+    <input id="XML" title="XML Type" (click)="EndSave('XML')" type="button" value="XML">
+    <input id="Cancel" title="Cancel" (click)="EndSave('cancel')" type="button" value="Cancel">
+  </div>
+
+
+</div>
