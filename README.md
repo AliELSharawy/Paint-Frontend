@@ -1,4 +1,4 @@
-# paint-front-end
+# Paint Frontend
 Implemented using Angular framework
 
 [lab 3 report prog 2.pdf](https://github.com/AliELSharawy/paint-frontend/files/8628264/lab.3.report.prog.2.pdf)
