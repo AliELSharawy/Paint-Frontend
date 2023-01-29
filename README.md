@@ -9,8 +9,8 @@
     Louay Magdy
     
 ## Paint Web Application provides:
-  1- Drawing and coloring simple shapes (square, rectangle, circle, triangle, ellipse)
-  2- Undo, Redo and Save options
+  1- Drawing and coloring simple shapes (square, rectangle, circle, triangle, ellipse)\
+  2- Undo, Redo and Save options\
   3- Copy, Move, Delete, Resize shapes
   
 ## User Guide and UI Snippets:
